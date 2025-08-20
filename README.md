@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution ]()
-- Live Site URL: [live site](https://shena9y.github.io/Social-links-profile/)
+- Solution URL: [My solution ](https://www.frontendmentor.io/solutions/social-proof-section-solution-wAls_tJhug)
+- Live Site URL: [live site](https://shena9y.github.io/Social-proof-section-solution/)
 
 ### Built with
 
